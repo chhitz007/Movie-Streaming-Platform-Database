@@ -1,7 +1,3 @@
-Absolutely! Here's a **professional GitHub README** tailored for your PostgreSQL Movie/Streaming Database project. It’s structured, CV-friendly, and highlights both the project and your SQL skills.
-
----
-
 # 🎬 Movie/Streaming Platform Database (PostgreSQL)
 
 ## Overview
