@@ -39,11 +39,12 @@ The project includes **9 core tables**:
 ## Features & Skills Demonstrated
 
 * **SQL Queries:**
-
+  
+  * Basic SELECT queries
   * Joins (inner, outer, self)
   * Aggregations & GROUP BY
   * Subqueries & correlated queries
-  * Window functions (RANK, ROW\_NUMBER, cumulative aggregates)
+  * Window functions (RANK, ROW\_NUMBER)
   * Reporting queries (top movies, top users, trends)
 
 * **Views:** Simplified reporting for dashboards
